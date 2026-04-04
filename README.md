@@ -1,5 +1,32 @@
-## Github Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=James-Johny&theme=transparent&bg_color=0F082F&border_color=0E0&show_icons=true&icon_color=0E0&title_color=0E0&text_color=FFF)
+# 👋 Olá, eu sou James Johny
 
-## Minhas Contribuições
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=James-Johny&bg_color=0F082F&border_color=0E0&title_color=0E0&text_color=FFF)
+## 🚀 Estatísticas do GitHub
+
+<!-- GitHub Metrics -->
+![Metrics](./metrics.svg)
+
+> O arquivo `metrics.svg` será gerado automaticamente pelo GitHub Actions usando o [GitHub Metrics](https://github.com/lowlighter/metrics).
+
+---
+
+## 📊 Badges com Shields.io
+
+![Followers](https://img.shields.io/github/followers/James-Johny?style=social)
+![Stars](https://img.shields.io/github/stars/James-Johny/yavos?color=yellow&style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/James-Johny/yavos?color=blue&style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/James-Johny/yavos?style=flat-square)
+![Last commit](https://img.shields.io/github/last-commit/James-Johny/yavos?color=green)
+![Repo size](https://img.shields.io/github/repo-size/James-Johny/yavos?style=plastic)
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+## 🛠️ Tecnologias e Ferramentas
+
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
