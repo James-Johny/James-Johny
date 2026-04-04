@@ -5,8 +5,6 @@
 <!-- GitHub Metrics -->
 ![Metrics](./metrics.svg)
 
-> O arquivo `metrics.svg` será gerado automaticamente pelo GitHub Actions usando o [GitHub Metrics](https://github.com/lowlighter/metrics).
-
 ---
 
 ## 📊 Badges com Shields.io
