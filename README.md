@@ -5,10 +5,6 @@
 <!-- GitHub Metrics -->
 ![Metrics](./github-metrics.svg)
 
----
-
-## 📊 Badges com Shields.io
-
 ![Followers](https://img.shields.io/github/followers/James-Johny?style=social)
 ![Stars](https://img.shields.io/github/stars/James-Johny/yavos?color=yellow&style=for-the-badge)
 ![Forks](https://img.shields.io/github/forks/James-Johny/yavos?color=blue&style=for-the-badge)
