@@ -3,7 +3,7 @@
 ## 🚀 Estatísticas do GitHub
 
 <!-- GitHub Metrics -->
-![Metrics](./metrics.svg)
+![Metrics](./github-metrics.svg)
 
 ---
 
