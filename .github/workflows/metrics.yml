@@ -1,11 +1,12 @@
 name: Metrics
 
 on:
-  # Atualiza automaticamente uma vez por dia
-  schedule: 
+  schedule:
     - cron: "0 0 * * *"
-  # Permite rodar manualmente
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   github-metrics:
@@ -14,23 +15,12 @@ jobs:
       - name: Gerar métricas
         uses: lowlighter/metrics@latest
         with:
-          # Token pessoal do GitHub (PAT) que você deve criar e salvar em Settings > Secrets > Actions
           token: ${{ secrets.METRICS_TOKEN }}
-
-          # Usuário alvo
           user: James-Johny
-
-          # Template visual
           template: classic
-
-          # Seções básicas
           base: header, activity, community, repositories, metadata
-
-          # Plugins extras (opcionais)
           plugin_languages: yes
           plugin_followup: yes
           plugin_stargazers: yes
           plugin_calendar: yes
-
-          # Timezone para relatórios
           config_timezone: America/Sao_Paulo
