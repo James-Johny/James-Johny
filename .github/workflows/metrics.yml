@@ -1,26 +1,40 @@
 name: Metrics
-
 on:
+  # Agenda a execução para todos os dias à meia-noite
   schedule:
     - cron: "0 0 * * *"
+  # Permite rodar manualmente pela aba "Actions"
   workflow_dispatch:
-
-permissions:
-  contents: write
+  # Opcional: executa a cada push na branch principal
+  push:
+    branches: ["master", "main"]
 
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Gerar métricas
         uses: lowlighter/metrics@latest
         with:
+          # Seu Personal Access Token (Classic) configurado nos Secrets
           token: ${{ secrets.METRICS_TOKEN }}
+          
+          # Configurações de exibição
           user: James-Johny
           template: classic
           base: header, activity, community, repositories, metadata
+          
+          # Plugins ativos
           plugin_languages: yes
+          plugin_languages_sections: most-used
+          plugin_languages_details: percentage
           plugin_followup: yes
           plugin_stargazers: yes
           plugin_calendar: yes
+          plugin_calendar_limit: 1
+          
+          # Configurações de fuso horário e saída
           config_timezone: America/Sao_Paulo
+          filename: github-metrics.svg
