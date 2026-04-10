@@ -1,5 +1,5 @@
 # 👋 Olá, eu sou James Johny
-
+Estudante de Ciência da Computação e apaixonado por tecnologia 
 ## 🚀 Estatísticas do GitHub
 
 <!-- GitHub Metrics -->
