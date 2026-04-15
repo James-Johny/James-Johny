@@ -39,7 +39,7 @@ Estudante de Ciência da Computação e apaixonado por tecnologia
 
 # Desafios de Projeto
 
-- [trilha-react-desafio01-calculadora](https://github.com/James-Johny/trilha-react-desafio01-calculadora)
+- [trilha-react-desafio01-calculadora](https://github.com/James-Johny/trilha-react-desafio01-calculadora)  
   Calculadora desenvolvida em React
 
 - [js-developer-portfolio](https://github.com/James-Johny/js-developer-portfolio)  
