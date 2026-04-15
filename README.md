@@ -78,7 +78,7 @@ Estudante de Ciência da Computação e apaixonado por tecnologia
 - [desafio-felipao](https://github.com/James-Johny/desafio-felipao)  
   Primeira versão do desafio de lógica de programação do instrutor Felipão.
 
-  ---
+---
 ## 🌐 Redes Sociais
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/jamesjohny)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jamesjohny.sg)
